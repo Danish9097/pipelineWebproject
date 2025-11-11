@@ -1,2 +1,1 @@
 # pipelineWebproject
-git init
